@@ -14,7 +14,7 @@ Upon selecting the start button (see figure 2), user(s) materialize onto a black
  - White dots: indicate competitors' position
  - Colored lines: distinguish the aforementioned trails
  
- ###GUI Mockups
+### GUI Mockups
  #### Figure 1
  ![GUI Mockup](/Tron/TronGUI.png)
  
