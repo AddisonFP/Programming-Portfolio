@@ -15,7 +15,7 @@ Upon selecting the start button (see figure 2), user(s) materialize onto a black
  - Colored lines: distinguish the aforementioned trails
  
 ### GUI Mockup
- ![Tron GUI](/Programming-Portfolio/TronGUI.png)
+ ![Tron GUI](/PNGs/TronGUI.png)
 
  ### Class Diagram
- ![Class Diagram](/Programming-Portfolio/TronClassDiagram.png)
+ ![Class Diagram](/PNGs/TronClassDiagram.png)
