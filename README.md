@@ -46,5 +46,5 @@ This program asks for your Brithday and then tells you your age in years, days, 
 
 ### Make A Face 
 This was a fun program to make that draws random faces. (made in processing) 
-[example of random face](/Make_a_Face/line-000033.png)
+ ![example of random face](/Make_a_Face/line-000033.png)
 [Make A Face source code](https://github.com/AddisonFP/Programming-Portfolio/tree/master/Make_a_Face)
