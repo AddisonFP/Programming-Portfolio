@@ -39,3 +39,7 @@ This is one of my bigger projects which is a fully functioning calculator
  
 ### Spaceship Game
  ![Spaceship game](/PNGs/spacegameSC.png)
+ 
+### Bday Program
+This program asks for your Brithday and then tells you your age in years, days, centuries, decades, sidereal months, milleniums, hours, minutes and seconds.
+[Bday program source code](https://github.com/AddisonFP/Programming-Portfolio/blob/master/Bday.py)
