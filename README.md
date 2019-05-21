@@ -38,4 +38,4 @@ This is one of my bigger projects which is a fully functioning calculator
  ![Calulator Source code](/PNGs/calcsourcecode.PNG)
  
 ### Spaceship Game
- ![Spaceship game](/PNGs/Screenshot (1).png)
+ ![Spaceship game](/PNGs/Screenshot (1).PNG)
