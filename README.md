@@ -22,8 +22,8 @@ Upon selecting the start button (see figure 2), user(s) materialize onto a black
 
 ### Photos of the actual program
 Here's what one of the maps I designed looks like
- ![Tron Map](/PNGs/tronmap3.png)
+ ![Tron Map](/PNGs/tronmap3.PNG)
  
 ### Source Code
 This is the code for the Lightcycle design
- ![Lighcycle Code](/PNGs/TronSourceCode.png)
+ ![Lighcycle Code](/PNGs/TronSourceCode.PNG)
