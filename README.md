@@ -27,3 +27,15 @@ Here's what one of the maps I designed looks like
 ### Source Code
 This is the code for the Lightcycle design
  ![Lighcycle Code](/PNGs/TronSourceCode.PNG)
+
+## Individual Projects
+
+### Calculator
+This is one of my bigger projects which is a fully functioning calculator
+#### GUI
+ ![Calculator GUI](/PNGs/calc.PNG)
+#### Code
+ ![Calulator Source code](/PNGs/calcsourcecode.PNG)
+ 
+### Spaceship Game
+ ![Spaceship game](/PNGs/Screenshot (1).png)
